@@ -36,3 +36,15 @@ body {
   display: inline-block;
   margin: 10px;
 }
+
+.feedback-form {
+  width: 600px;
+  padding: 20px;
+  margin: 20px auto;
+}
+
+.feedback-form textarea {
+  width: 100%;
+  resize: none;
+  font: inherit;
+}
